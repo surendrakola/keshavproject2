@@ -1,0 +1,1 @@
+console.log("Internship Task 2 Loaded Successfully 🚀");
